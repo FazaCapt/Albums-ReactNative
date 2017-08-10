@@ -18,6 +18,7 @@
 2. Installing reaact-native: https://facebook.github.io/react-native/docs/getting-started.html
 3. rallyCoding: https://rallycoding.com/blog/troubleshooting-react-native-startup/
 4. https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&debug=false&code_lz=Q
+5. API music_albums: rallycoding.herokuapp.com/api/music_albums
 
 ### correction:
 
