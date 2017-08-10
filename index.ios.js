@@ -13,10 +13,6 @@ const App = () => (
     <Header headerText={'Albums'} />
     <AlbumList />
   </View>
-    
-
-    // return 1;
-    // return 2;
   );
 
 // render it to the device
