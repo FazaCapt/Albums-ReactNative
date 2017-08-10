@@ -6,4 +6,10 @@ import ReactNative from 'react-native';
 
 // Create  a component
 
+const App = () => {
+  return (
+    <Text>Some text</Text>
+  );
+};
+
 // render it to the device
