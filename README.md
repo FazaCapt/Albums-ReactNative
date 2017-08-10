@@ -8,9 +8,17 @@
 6. react-native init AwesomeProject
 7. linter-eslint
 8. npm install --save-dev eslint-config-rallycoding
+9. npm install -g eslint (sublim text)
+10. 
 
 
 ### Resources:
 
 1. https://brew.sh/
 2. Installing reaact-native: https://facebook.github.io/react-native/docs/getting-started.html
+3. rallyCoding: https://rallycoding.com/blog/troubleshooting-react-native-startup/
+
+### correction:
+
+1. https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/7596098?start=0
+2. 
