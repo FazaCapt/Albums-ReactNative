@@ -3,7 +3,10 @@ import { View } from 'react-native';
 
 const Card = () => {
     return (
-        <View style={styles.constainerStyle}></View>
+        <View style={styles.constainerStyle}>
+            {props.children}
+            {/* <Text>{props.album.title}</Text> */}
+        </View>
     );
 };
 
