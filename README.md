@@ -9,7 +9,7 @@
 7. linter-eslint
 8. npm install --save-dev eslint-config-rallycoding
 9. npm install -g eslint (sublim text)
-10. 
+10. npm install --save axios
 
 
 ### Resources:
@@ -23,4 +23,5 @@
 ### correction:
 
 1. https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/7596098?start=0
-2. 
+2. https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/6375456?start=0
+3. https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/questions/1924782
