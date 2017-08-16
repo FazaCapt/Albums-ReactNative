@@ -1,11 +1,10 @@
 import React from 'react';
 import { View } from 'react-native';
 
-const Card = () => {
+const Card = (props) => {
     return (
         <View style={styles.constainerStyle}>
             {props.children}
-            {/* <Text>{props.album.title}</Text> */}
         </View>
     );
 };
